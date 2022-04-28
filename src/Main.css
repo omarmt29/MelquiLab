@@ -1,0 +1,27 @@
+
+.Main-container {
+    height: 100vh;
+    background-image: url("./source/img/fondo.png");
+}
+.logo-container {
+    display: flex;
+    justify-content: center;
+    
+}
+.Main-container img{
+    height: 40%;
+    width: 23%;
+    
+}
+
+.navbar-container {
+    background-color: #086E97;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.navbar-container p {
+    padding: 15px;
+    color: white;
+}
